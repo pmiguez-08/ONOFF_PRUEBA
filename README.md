@@ -42,7 +42,7 @@ Construir una aplicación "To-Do" con autenticación y manejo de tareas:
 
 La solución está dividida en dos proyectos:
 
-    ONOFF-PRUEBA-SEMISENIOR/
+ONOFF-PRUEBA-SEMISENIOR/
 │── OnOff.Todo.Api/         → Backend .NET 9 API
 │── OnOff.Todo.Api.Tests/   → Pruebas automatizadas backend (xUnit)
 │── onoff-todo-web/         → Frontend Angular 17+
