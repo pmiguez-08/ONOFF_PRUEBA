@@ -1,0 +1,45 @@
+# ==== .NET / Visual Studio ====
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Logs
+*.log
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Ll]og/
+
+# Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# ==== Angular / Node ====
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+dist/
+dist-ssr/
+.tmp/
+
+.angular/cache/
+.eslintcache
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
