@@ -127,7 +127,7 @@ El frontend lo envía en:
 
 ------------------------------------------------------------------------
 
-# 4. 🖥 Frontend (Angular 17+)
+# 4.  Frontend (Angular 17+)
 
 ## 4.1 Tecnologías utilizadas
 
@@ -222,7 +222,7 @@ Pruebas importantes:
 
 ------------------------------------------------------------------------
 
-# 6. 🚀 Cómo Ejecutar el Proyecto
+# 6.  Cómo Ejecutar el Proyecto
 
 ## 6.1 Backend
 
@@ -294,4 +294,4 @@ requisitos solicitados por OnOff:
 -   Documentación clara y profesional
 
 **Autor:**\
-\### Ingeniero Pablo Miguez
+\ Ingeniero Pablo Miguez
